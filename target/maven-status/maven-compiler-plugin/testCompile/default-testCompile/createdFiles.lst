@@ -1,0 +1,15 @@
+com\egitim\testautomation\page\MainPage.class
+com\egitim\testautomation\test\MainPageTest.class
+com\egitim\testautomation\page\RegisterPage.class
+com\egitim\testautomation\base\BaseTest.class
+com\egitim\testautomation\constants\ConstantsLoginPage.class
+com\egitim\testautomation\page\SepetPage.class
+com\egitim\testautomation\util\Browser.class
+com\egitim\testautomation\base\BasePage.class
+com\egitim\testautomation\constants\ConstantsSepetPage.class
+com\egitim\testautomation\test\LoginPageTest.class
+com\egitim\testautomation\page\LoginPage.class
+com\egitim\testautomation\constants\ConstantsMainPage.class
+com\egitim\testautomation\constants\ConstantsRegisterPage.class
+com\egitim\testautomation\test\SepetPageTest.class
+com\egitim\testautomation\test\RegisterPageTest.class
